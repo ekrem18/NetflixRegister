@@ -77,10 +77,13 @@ span{
     border: none;
     color: #ffffff;
     cursor: pointer;
-    &:hover{
+    /* &:hover.....  */
+}
+
+#form-button:hover{
     background-color: #fff;
     color: red;
-}}
+}
 
 .form-submit{
     text-align: center;
